@@ -2,6 +2,7 @@
     "name": "shy/swocloud",
     "description": "路由服务器",
     "license": "MIT",
+    "type": "project",
     "authors": [
         {
             "name": "xiaobei",
