@@ -1,0 +1,20 @@
+{
+    "name": "shy/swocloud",
+    "authors": [
+        {
+            "name": "xiaobei",
+            "email": "570650116@qq.com"
+        }
+    ],
+    "require": {
+        "firebase/php-jwt": "^5.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "SwoCloud\\": "src"
+        },
+        "files": [
+            "src/Supper/Helper.php"
+        ]
+    }
+}
